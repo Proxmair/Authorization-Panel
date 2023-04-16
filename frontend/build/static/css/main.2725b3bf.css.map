@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2725b3bf.css","mappings":"wGACA,EAGE,qBAAsB,CAFtB,QAAS,CACT,SAEF","sources":["App.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500&family=Mulish&display=swap');\n*{\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}"],"names":[],"sourceRoot":""}
